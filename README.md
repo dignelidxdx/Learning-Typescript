@@ -10,7 +10,7 @@
 8. El archivo de configuración de TypeScript: tsconfig.json este configura opciones para compilar. Para comenzar colocar tsc --init luego tsc para compilar además reconoce todos los archivos en toda la raíz del proyecto.
 9. En el tipado en Tyscrypt  existe Explícito y Inferido
 10. Explícito: nombreVariable : Tipo de Dato
-11. Inferido: nombreVariable = valor
+11. Inferido: nombreVariable = valor ya definidos antriormente.
 12. En Typescrypt existen datos Tipos Primitivos: Number, Boolean, String, Array, Tuple, Enum, Any, Void, Null, Undefined, Never, Object.
-
-
+13. Tipo de Datos: Any, se usa como ultimo recurso.
+14. Tipo de Datos: Void, lo opuesto de Any que representa la ausencia de tipo del dato.
