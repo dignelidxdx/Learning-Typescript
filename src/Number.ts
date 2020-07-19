@@ -19,6 +19,11 @@ let isPro: boolean;
 isPro = true;
 // isPro = 1; --> Error
 
+// Inferido
+let isUserPro = false;
+isUserPro = true;
+// isUserPro = 10; // Error!
+
 // String
 let username: string = 'anbreaker';
 username = 'Javier';
