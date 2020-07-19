@@ -13,4 +13,6 @@
 11. Inferido: nombreVariable = valor ya definidos antriormente.
 12. En Typescrypt existen datos Tipos Primitivos: Number, Boolean, String, Array, Tuple, Enum, Any, Void, Null, Undefined, Never, Object.
 13. Tipo de Datos: Any, se usa como ultimo recurso.
-14. Tipo de Datos: Void, lo opuesto de Any que representa la ausencia de tipo del dato.
+14. Tipo de Datos: Void, lo opuesto de Any que representa la ausencia de tipo.
+15. Tipo de Datos: Never,
+15. Tipo de Datos: Null y undefined se pueden asumir como subtipos de los otros tipos de datos. Es mejor evitarlos y podemos usar el flag --strictNullChecks o bien strict. Como buena práctica mejor evitarlos.

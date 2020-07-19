@@ -1,4 +1,17 @@
 // ------- Tipo: Array -------
+ /* Dos notaciones: [] y Array<Type>
+ejemplo:
+
+const names = string[];
+const months = Array<string>;
+Se puede acceder con indices.
+
+names[0];
+months[5];
+se puede usar la prop length
+se puede usar el method push
+Supongo que todos los de Array. Buscar en MDN. */
+
 
 // Explicito
 let users: string[];
